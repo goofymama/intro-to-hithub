@@ -1,1 +1,9 @@
 git init - to initialize a new git project 
+
+git add.-to add all folders in our project to git local git repo 
+
+git commit -m 'initial commit' - this is used to tell git what changes were made
+
+git remote add origin https://github.com/goofymama/intro-to-hithub.git - this tells git the respository you are working origin
+
+git push origin <branch name> - replace branch name with te branch you intend to push to e.g git push origin master
