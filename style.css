@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0rem;
+    background-color: whitesmoke;
+    padding-top: 3rem;
+    
+    
+
+}
+b{
+    color: blue;
+    padding-right: 6rem;
+}
+.logo2{
+    color: red;
+    font-weight: bolder;
+}
+.logo1{
+    font-size: 3rem;
+    margin-left: 12rem;
+    font-weight: bolder;
+}
+ul,li,a{
+    display: flex;
+    font-size: 2rem;
+    padding: 0.2rem;
+    margin-left:2rem;
+    text-align: center;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+}
+.nav-b{
+    padding:1rem 1.5rem;
+    width: 25rem;
+    height: 5rem;
+    font-size: 2rem;
+    border-radius: 5rem;
+    font-weight: lighter;
+    color: white;
+    background-color: orangered;
+    border: none;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 9rem;
+    
+}
+/* section two */
+.content{
+    text-align: left;
+    font-size: 2rem;
+    color: red;
+    font-family: 'Poppins', sans-serif;
+}
+.dead{
+    color: black;
+}
+.wo{
+    color: black;
+}
+.omo{
+    color: black;
+}
+.die{
+    color: rgb(104, 104, 224);
+}
+.died{
+    color: red;
+}
+.love{
+    color: black;
+    padding-top: 3rem;
+    font-weight: light;
+}
+.tape{
+    color:rgb(104, 104, 224) ;
+}
+.placeholder{
+    padding:1rem 1.5rem;
+    width: 35rem;
+    height: 5rem;
+    font-size: 2rem;
+    border-radius: 5rem;
+    font-weight: lighter;
+    background-color:rgba(161, 239, 241, 0.589);
+    border: none;
+    margin-bottom: 2rem;
+    margin-top: 1.5rem;
+    margin-left: 9rem;
+}
+h2{
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 1.9rem;
+    font-family: 'Poppins', sans-serif;
+}
+h2,p{
+    /* color: white; */
+}
+.boxes{
+    background-image: url(./images/about-bg.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.box1{
+    display: flex;
+}
+.dumb{
+    font-size: 3rem;
+    padding: 1rem;
+}
+.icon1{
+    margin-left: 65rem;
+    margin-top: 10rem
+}
+.lorem1{
+    margin-top: 10rem
+}
+.check{
+    font-size: 2rem;
+    line-height: 27px;
+}
+.icon2{
+
+}
+.lor
